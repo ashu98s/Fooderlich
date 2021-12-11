@@ -1,4 +1,4 @@
-## Fooderlich 1234567
+## Fooderlich 12345678
 
 Fooderlich, a social recipe app to keep track of new dishes, and share with friends.
 

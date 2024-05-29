@@ -1,4 +1,4 @@
-## Fooderlich
+## Fooderlich 
 
 Fooderlich is a social recipe app to keep track of new dishes and share them with friends.
 
